@@ -420,7 +420,7 @@ pip install tensorflow-cpu
 For questions or feedback:
 - Open an issue on GitHub
 - Connect on [LinkedIn](https://linkedin.com)
-- Email: your.email@example.com
+- Email: shubhamjhanjhot333k@gmail.com
 
 ---
 
